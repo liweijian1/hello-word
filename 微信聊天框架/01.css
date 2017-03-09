@@ -1,0 +1,40 @@
+body{}
+#addfriends
+{
+	cursor: pointer;
+}
+#sendmessage{
+	cursor: pointer;
+}
+.d-left{
+	border: 0.5px solid ;
+	float: left;
+}
+.d-mid{
+	border: 0.5px solid ;
+	float: left;
+}
+.d-mid-top
+{
+	border: 0 solid ;
+}
+.d-right{
+	border: 0.5px solid ;
+	float: left;
+}
+.d-right-top
+{
+	border:0.5px solid;
+}
+.d-right-mid
+{
+	border: 0.5px solid;
+}
+.d-right-down
+{
+	border: 0.5px solid;
+}
+.d-right-bottom
+{
+	border:0.5px solid;
+}
