@@ -1,0 +1,102 @@
+#firstdiv
+{
+	border: 1px solid #999;
+	background-color: #eee;
+    padding: 20px;
+    width: auto;
+    height: 600px;
+    margin: 20px;
+}
+#seconddiv
+{
+	border: 1px solid #999;
+	height:120px ;
+	width: 200px;
+	padding: 20px;
+	
+	background-color: white;
+	float: left;
+	
+
+}
+#thireddiv
+{
+	border: 1px solid #999;
+	background-color: #eee;
+	float: left;
+	height: 80px;
+	width: 80px;
+    text-align: center;
+    vertical-align: middle;
+    margin-right: 20px;
+    
+
+}
+#forthdiv
+{
+	border: 0 solid #999;
+	margin: 0;
+	width: 80px;
+	float: left;
+	
+}
+#fifthdiv
+{
+	border:1px solid #999;
+	float: left;
+	background-color: white;
+	margin:0 20px 0 20px;
+	padding: 20px;
+	width: auto;
+	height: auto;
+
+}
+span{
+	font-family:"微软雅黑";
+}
+ 
+#sixthdiv
+{
+	border:1px solid #999;
+	float: left;
+	padding: 20px;
+	background-color: white;
+	
+	
+
+}
+
+#seventhdiv
+{
+	border: 1px solid #999;
+	background-color:#eee;
+	height: 80px;
+	width: 80px;
+	
+}
+#eighthddiv
+{
+	border: 1px solid #999;
+	background-color:#eee;
+	height: 80px;
+	width: 80px;
+	margin:20px 0 20px 0;
+	
+}
+#ninthdiv
+{
+	border: 1px solid #999;
+	background-color:#eee;
+	height: 80px;
+	width: 80px;
+	margin-bottom: 20px;
+	
+}
+#lastdiv
+{
+	border: 1px solid #999;
+	background-color:#eee;
+	height: 80px;
+	width: 80px;
+	
+}
