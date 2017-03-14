@@ -1,0 +1,276 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	
+}
+#firstdiv
+{
+	border: 1px solid #999;
+	width: 980px;
+	height: 1386px;
+	background-color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin:-260px 0 0 -490px;
+    
+}
+#topdiv
+{
+	background-color: red;
+	border:0 solid #999;
+	width: 110px;
+	height: 61px;
+	margin-left:44px;
+	padding: 0;
+	
+
+}
+#seconddiv
+{
+	width: 892px;
+	height: 2px;
+	background-color: #938e8c;
+	margin: 0;
+	position: absolute;
+	left: 50%;
+	margin-left: -446px;
+}
+#thireddiv
+{
+	border: 1px solid #999;
+	width: 641px;
+	height: 301px;
+	margin-top: 44px;
+	margin-left: 44px;
+	background-image: url("./img/1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100% ;
+	float: left;
+}
+
+#thiredleftdiv
+{
+	border: 1px solid #999;
+	height: 301px;
+	width: 191px;
+	opacity: 0.5;
+	background-color: #75b86b;
+	float: left;
+}
+#thiredrightdiv
+{
+	border: 1px solid #999;
+	height: 301px;
+	width: 191px;
+	opacity: 0.5;
+	background-color: #cc8091;
+	float: right;
+}
+#forthdiv
+{
+	border: 0 solid #999;
+	height: 301px;
+	width: 203px;
+	float: left;
+	margin-top: 44px;
+	margin-left: 44px;
+	background-color: white;
+}
+#forthheaddiv
+{
+	border: 1px solid ;
+	width: 203px;
+	height: 2px;
+	background-color: #cc8091;
+}
+#header
+{
+	font-family: 微软雅黑;
+	font-size:24px;
+	color:#000000;
+	text-decoration: underline;
+	text-transform: capitalize;
+	font-variant: small-caps;
+	line-height: 40px;
+}
+#face
+{
+	font-family: 楷体;
+	font-size:12px;
+	color: #676767;
+	line-height: 10px;
+}
+#bod
+{
+	font-size: 116px;
+	font-family: 微软雅黑;
+    color: #75b86b;
+    text-decoration: underline;
+    font-style: italic;
+}
+#foot
+{
+	font-family: 微软雅黑;
+	font-size: 55px;
+	color: #cc8091;
+}
+#footdivleft
+{
+	border: 0px solid #999;
+	float: left;
+}
+#footdivright
+{
+	border:0px solid #999;
+	float:left;
+	margin-top: 18px;
+}
+#headfootleft
+{
+	font-size: 21px;
+	font-family: 微软雅黑;
+	color: #cc8091;
+	margin-right: 0;
+}
+#headfootright
+{
+	font-size: 12px;
+	font-family: 微软雅黑;
+	color: #cc8091;
+	margin-left: 0;
+}
+#bodydiv
+{
+	border:0 solid #999;
+	width: 641px;
+	height: 200px;
+	margin-left: 44px;
+	margin-top: 389px;
+}
+#bodyleftdiv
+{
+	border: 0 solid #999;
+	width: 200px;
+	float: left;
+	margin-right: 20px;
+}
+#bodyleftpdiv
+{
+	font-family: 微软雅黑;
+	font-size: 16px;
+	color: #418c59;
+	font-style: italic;
+	text-decoration: underline;
+	font-weight: bold;
+}
+#bodyleftp2div
+{
+	font-family: 宋体;
+	font-size: 12px;
+	color: #767777;
+	line-height: 16px;
+}
+#bodymiddlediv
+{
+	border: 0 solid #999;
+	width: 200px;
+	float: left;
+}
+#bodymiddlepdiv
+{
+	font-family: 微软雅黑;
+	font-weight: bold;
+	font-size: 16px;
+	font-style: italic;
+	color: #d2994f;
+	text-decoration: underline;
+}
+#bodymiddlep2div
+{
+	font-family: 宋体;
+	font-size: 12px;
+	color: #767777;
+	line-height: 16px;
+	opacity: 0.7;
+}
+#bodyrightdiv
+{
+	border: 0 solid #999;
+	width: 200px;
+	float: right;
+}
+#bodyrightpdiv
+{
+	font-family: 微软雅黑;
+	font-weight: bold;
+	font-size: 16px;
+	font-style: italic;
+	color: #cc7680;
+	text-decoration: underline;
+}
+#bodyrightp2div
+{
+	font-family: 宋体;
+	font-size: 12px;
+	color: #767777;
+	line-height: 16px;
+	opacity: 0.7;
+}
+#bodyrightp3div
+{
+	margin-top: 28px;
+}
+#footleftdiv
+{
+	border: 1px solid #999;
+	width: 415px;
+	height: 613px;
+	margin-left: 44px;
+	padding: 0;
+	float: left;
+}
+#footleftbodydiv
+{
+	width: 415px;
+	height: 2px;
+	border: 1px solid;
+	margin-top: 16px;
+}
+#footrighttopdiv
+{
+	border: 0 solid #999;
+	width: 458px;
+	height: 275px;
+	float: right;
+	margin-right: 40px;
+	background-image: url("./img/3.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100% ;
+}
+#footrighttop2div
+{
+	border: 0 solid #999;
+	width: 458px;
+	height: 61px;
+	background-color: #999;
+	margin-top: 214px;
+	z-index: 20;
+	opacity: 0.5;
+}
+#footrighttop3div
+{
+	
+	width: 3px;
+	height: 44px;
+	opacity: 1;
+	background-color:#72b16a;
+	display: inline;
+	margin-left: 20px;
+}
+#footrightbottomdiv
+{
+	width: 459px;
+	height: 318px;
+}
